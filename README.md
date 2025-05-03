@@ -2,7 +2,7 @@
 <h3 align="center">I take great pleasure in developing dynamic and efficient applications using React. I am deeply passionate about exploring the intricate details of JavaScript.</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leyla-ahmadova-bb0368260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leylaahmadova24@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leyla-ahmadova-bb0368260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leylaahmadova24@gmail.com) 
 
 💬 Ask me about HTML, CSS, Javascipt, React
 
